@@ -9,6 +9,9 @@ sudo apt install cmake
 navigate to that New folder
 # STEP7: Type the command:
 mkdir build
+
 cd build
+
 cmake ..
+
 cmake --build .
