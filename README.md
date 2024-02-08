@@ -18,4 +18,3 @@ cmake --build .
 
 run the file you named in CMakeLists.txt
 
-# CMakeLists.txt and main.cpp are in my github repositary
