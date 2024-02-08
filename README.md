@@ -15,3 +15,5 @@ cd build
 cmake ..
 
 cmake --build .
+
+run the file you named in CMakeLists.txt
